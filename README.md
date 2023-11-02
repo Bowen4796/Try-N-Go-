@@ -6,7 +6,7 @@ GAME INSTRUCTIONS
 
 
 GAME CONTROLS
-
+      Run board_gui.py file to play board game.
       Press enter to finish turn
       Press select to select triangles to claim
       Press claim to claim triangles for points
