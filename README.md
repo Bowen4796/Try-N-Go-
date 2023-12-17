@@ -7,7 +7,8 @@ GAME INSTRUCTIONS
 
 GAME CONTROLS
 
-      Run board_gui.py file to play board game.
+      Opening the Try-N-Go folder using an IDE, run the board_gui.py file to play board game.
+      Press any triangular slot to place a game piece
       Press enter to finish turn
       Press select to select triangles to claim
       Press claim to claim triangles for points
